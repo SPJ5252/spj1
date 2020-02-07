@@ -1,0 +1,41 @@
+body{
+  background-color:#5DADE2;
+  text-align: center;
+}
+h1{
+  margin-top:5%;
+  font-family: 'Jim Nightshade', cursive;
+  font-size: 50px;
+  color:#FF0000;
+}
+h3{
+font-family: 'Righteous', cursive;
+  font-size: 2rem;
+}
+button{
+  border: white;
+  border-radius:50px;
+  background-color: green;
+  padding: 15px;
+  margin-bottom: 0px;
+}
+button a{
+  text-decoration: none;
+  color: white;
+}
+
+img{
+  border-radius:48%;
+  height: 50%;
+  width: 50%;
+}
+.personal{
+  margin-top:5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#y{
+
+margin-bottom: 5%;
+}
