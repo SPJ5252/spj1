@@ -9,7 +9,7 @@ h1{
   color:#FF0000;
 }
 h3{
-font-family: 'Righteous', cursive;
+  font-family: 'Righteous', cursive;
   font-size: 2rem;
 }
 button{
@@ -23,10 +23,14 @@ button a{
   color: white;
 }
 
-img{
+.img-personal{
   border-radius:48%;
   height: 50%;
   width: 50%;
+}
+.tv{
+  height: 10%;
+  width: 10%;
 }
 .personal{
   margin-top:5%;
@@ -34,13 +38,21 @@ img{
   margin-right: 5%;
 }
 .heart-img{
-  width: 4%;
-  height: 4%;
+  border-radius:48%;
+  width: 7%;
+  height: 7%;
 }
 .pigeon-heart{
-  margin-top:25%;
+  border-radius:48%;
+  margin:25% 0% 0% 0%;
   width:40%;
   height:40%;
+}
+.desc{
+  color: white;
+  margin-top: 2%;
+  font-size: 1.4rem;
+  font-family: 'Indie Flower', cursive;
 }
 #y{
   margin-bottom: 5%;
